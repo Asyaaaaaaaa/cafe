@@ -1,0 +1,150 @@
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-self: flex-start;
+    margin-top: -20px;
+    font-size: calc(15px + 1.5vh);
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: COMIC SANS MS;
+    font-size: calc(20px + 1.5vh);
+    text-transform: uppercase;
+    background: linear-gradient(45deg, #800202 15%, #cc1111 56%, #fc6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #8B0000;
+    display: table;
+    
+}
+
+.logo {
+    width: 130px;
+    min-width: 4%;
+    max-width: 12%;
+}
+
+header {
+background-color: Snow; 
+}
+
+.head {
+    display: flex;
+    align-items:flex-start;
+}
+
+h2 {
+    font-family: COMIC SANS MS;
+    font-size: calc(10px + 1.5vh);
+    text-transform: uppercase;
+    background: linear-gradient(45deg, #800202 15%, #cc1111 56%, #fc6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #8B0000;
+    display: table;
+}
+
+
+p {
+    text-align: center;
+    font-size: calc(10px + 1.5vh);
+    margin: 0;
+}
+
+.opisanie {
+    display: flex; 
+    justify-content: center;
+    width: 90%;
+    margin-left: 3%;
+    padding: 2%;
+    background-color: Snow;
+    margin-top: 2%;
+}
+
+
+
+.category {
+    background-color: #800202;
+    width: 60%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    margin: 2% 0 2% 20%;
+    padding: auto;
+    max-height: 120px;
+    min-height: 60px;
+}
+
+.category p {
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    text-transform: uppercase;
+    padding: 5px 0 5px 0;
+    margin: auto;
+    font-size: calc(15px + 1.5vh);
+}
+
+.obshee {
+	background-color: Snow;
+	height: 350px;
+	padding: 20px ;
+	text-align: center;
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    min-width: 400px;
+    max-width: 700px;
+    margin-bottom: 20px;
+}
+
+.name {
+	color: #000;
+	font-weight: 500;
+	text-transform: uppercase;
+    font-size: calc(12px + 1.5vh);
+    margin-top: 10px; 
+}
+
+img {
+	height: auto;
+	max-width: 65%;
+}
+
+.osnova {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: Snow;
+    width: 90%;
+    margin-left: 3%;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+
+b {
+    color: #800202;
+    font-size: calc(15px + 1.5vh); 
+}
+
+footer {
+    background-color: Snow;
+    height: 20%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.f1 {
+    margin-left: 3%;
+}
+
+html {
+    background: #b38989;
+}
+
